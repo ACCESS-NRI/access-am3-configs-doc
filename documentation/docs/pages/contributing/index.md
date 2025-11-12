@@ -1,20 +1,27 @@
 ## Getting involved in ACCESS-AM3
 
-There are several ways we welcome feedback and contributions on ACCESS-AM3 development. **Contributions from people of all career stages and backgrounds are highly encouraged. Development is led by ACCESS-NRI and the Atmosphere and Land working groups.** We follow an open development workflow where possible building on the work of international modelling groups.
+There are several ways we welcome feedback and contributions on ACCESS-AM3 development. **Contributions from people of all career stages and backgrounds are highly encouraged. Development is led by ACCESS-NRI, CSIRO and the ARC Centre of Excellence for Weather in the 21st Century.** We follow an open development workflow where possible building on the work of international modelling groups.
 
 ### Interact with developers in person
 
-If you would like to interact in person with the development team, we have regular technical meetings that [are announced here](https://forum.access-hive.org.au/t/access-am3-technical-meetings-announce/5418) (subscribe to this thread for notifications), the meetings are held on every second Wednesday 2-3pm. Meeting minutes are [also on the forum](https://forum.access-hive.org.au/t/access-am3-technical-meeting-minutes/5429). Everyone is welcome to suggest agenda items and participate (see announce thread for agenda). If you'd like to come, best to get in touch on [the ACCESS-Hive forum](https://forum.access-hive.org.au/c/esm/coupled-model/71) or just join a meeting ([zoom link](https://anu.zoom.us/j/83117761719?pwd=DGwVcKiyoaoVJhRp5tc5rPWYD7ZlO5.1)).
+If you would like to interact in person with the development team, there are regular Land Working Group meetings on the first and third Wednesday of every month (see [this thread](https://forum.access-hive.org.au/t/land-working-group-announce/355) on the Hive Forum) and Atmosphere Working Group meetings are organised on an ad-hoc basis (see [this thread](https://forum.access-hive.org.au/t/announce-atmosphere-working-group/568) on the Hive Forum). Everyone is welcome to suggest agenda items and participate (see the threads for the respective agendas). If you'd like to come, get in touch on ACCESS-Hive forum either under the [Land](https://forum.access-hive.org.au/c/land/8) or [Atmosphere](https://forum.access-hive.org.au/c/atmosphere/7) categories.
 
-We also manage most of our development openly on GitHub, we track AM3 work on a [GitHub project board here](https://github.com/orgs/ACCESS-NRI/projects/15/views/1). If you'd like to have your issue considered for AM3 development, please [open an issue](https://github.com/ACCESS-NRI/dev_coupling/issues/new).
+We also manage most of our development on GitHub. We track AM3 work on a [GitHub project board here](https://github.com/orgs/ACCESS-NRI/projects/35). If you'd like to have your issue considered for AM3 development, please [open an issue](https://github.com/ACCESS-NRI/access-am3-configs/issues/new) on the ACCESS-AM3 configurations repository.
 
-### Help us evaluate and improve applications of CM development
+!!! warning
+    The ACCESS-AM3 configurations repository is private due to UK Met Office licensing restrictions. If you would like to get involved, please get in contact with us on the [Hive forum]() to request access. **[TODO] This is something we don't want public yet? Feels very contradictory to say "All contributions, please come get involved" and then say "but wait our repository is private"**
 
+### Help us evaluate and improve applications of AM
+
+**[TODO] Update this section after it is clarified in the next Atmosphere WG meeting.**
+
+<!--
 We have a community based group the "AM3 Dev-Eval Working group" that are helping with AM3 evaluation and development. Contributions from people of all career stages and backgrounds are highly encouraged. To join the meetings follow the announcements [here](https://forum.access-hive.org.au/t/esm-working-group-announce/567/67).
 
 There's agenda (before the meeting) and minutes (after) the meetings [here](https://forum.access-hive.org.au/t/am3-dev-eval-working-group-meeting-minutes-2025/5393), anyone can share a figure or contribute to the agenda. 
 
 All community members (and ACCESS-NRI staff) can get [write access to the AM3 evaluation repository](https://github.com/ACCESS-Community-Hub/access-am3-paper-1/). To get write access, you need to create an issue and request access, [please use this issue template](https://github.com/ACCESS-Community-Hub/access-am3-paper-1/issues/new?template=add-user-request-to--access-am3-1-repository-.md). Evaluation figures are being coordinated [here](https://github.com/ACCESS-Community-Hub/access-am3-paper-1/issues/1).
+-->
 
 ### Report a bug or make a suggestion
 
