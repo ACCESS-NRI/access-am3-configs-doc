@@ -1,10 +1,10 @@
 
 # Home
 
-Welcome to the documentation for the [ACCESS-CM3 model configurations](https://github.com/ACCESS-NRI/access-am3-configs)! 
+Welcome to the documentation for the [ACCESS-AM3 model configurations](https://github.com/ACCESS-NRI/access-am3-configs)! 
 
 
-## ACCESS-CM3 Documentation Overview
+## ACCESS-AM3 Documentation Overview
 
 See the navigation links on the left. Some reading tips, see:
 
@@ -14,7 +14,7 @@ See the navigation links on the left. Some reading tips, see:
  - [Infrastructure](/infrastructure/Architecture/) 
 
 ## access-am3-configs Overview
-ACCESS-CM3 configurations are provided via branches in the [access-am3-configs](https://github.com/ACCESS-NRI/access-am3-configs) GitHub repository, this repository is currently private. The [access-am3-configs](https://github.com/ACCESS-NRI/access-am3-configs) repository contains several configurations using the following components:
+ACCESS-AM3 configurations are provided via branches in the [access-am3-configs](https://github.com/ACCESS-NRI/access-am3-configs) GitHub repository, this repository is currently private. The [access-am3-configs](https://github.com/ACCESS-NRI/access-am3-configs) repository contains several configurations using the following components:
 
 - [MOM5](https://github.com/ACCESS-NRI/mom5) ocean model
 - [UM](https://github.com/ACCESS-NRI/UM) atmosphere model

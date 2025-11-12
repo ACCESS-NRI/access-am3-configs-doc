@@ -1,26 +1,26 @@
-## Getting involved in ACCESS-CM3
+## Getting involved in ACCESS-AM3
 
-There are several ways we welcome feedback and contributions on ACCESS-CM3 development. **Contributions from people of all career stages and backgrounds are highly encouraged. Development is led by ACCESS-NRI and the ESM-working group.** We follow an open development workflow where possible building on the work of international modelling groups.
+There are several ways we welcome feedback and contributions on ACCESS-AM3 development. **Contributions from people of all career stages and backgrounds are highly encouraged. Development is led by ACCESS-NRI and the ESM-working group.** We follow an open development workflow where possible building on the work of international modelling groups.
 
 ### Interact with developers in person
 
 If you would like to interact in person with the development team, we have regular technical meetings that [are announced here](https://forum.access-hive.org.au/t/access-am3-technical-meetings-announce/5418) (subscribe to this thread for notifications), the meetings are held on every second Wednesday 2-3pm. Meeting minutes are [also on the forum](https://forum.access-hive.org.au/t/access-am3-technical-meeting-minutes/5429). Everyone is welcome to suggest agenda items and participate (see announce thread for agenda). If you'd like to come, best to get in touch on [the ACCESS-Hive forum](https://forum.access-hive.org.au/c/esm/coupled-model/71) or just join a meeting ([zoom link](https://anu.zoom.us/j/83117761719?pwd=DGwVcKiyoaoVJhRp5tc5rPWYD7ZlO5.1)).
 
-We also manage most of our development openly on GitHub, we track CM3 work on a [GitHub project board here](https://github.com/orgs/ACCESS-NRI/projects/15/views/1). If you'd like to have your issue considered for CM3 development, please [open an issue](https://github.com/ACCESS-NRI/dev_coupling/issues/new).
+We also manage most of our development openly on GitHub, we track AM3 work on a [GitHub project board here](https://github.com/orgs/ACCESS-NRI/projects/15/views/1). If you'd like to have your issue considered for AM3 development, please [open an issue](https://github.com/ACCESS-NRI/dev_coupling/issues/new).
 
 ### Help us evaluate and improve applications of CM development
 
-We have a community based group the "CM3 Dev-Eval Working group" that are helping with CM3 evaluation and development. Contributions from people of all career stages and backgrounds are highly encouraged. To join the meetings follow the announcements [here](https://forum.access-hive.org.au/t/esm-working-group-announce/567/67).
+We have a community based group the "AM3 Dev-Eval Working group" that are helping with AM3 evaluation and development. Contributions from people of all career stages and backgrounds are highly encouraged. To join the meetings follow the announcements [here](https://forum.access-hive.org.au/t/esm-working-group-announce/567/67).
 
 There's agenda (before the meeting) and minutes (after) the meetings [here](https://forum.access-hive.org.au/t/am3-dev-eval-working-group-meeting-minutes-2025/5393), anyone can share a figure or contribute to the agenda. 
 
-All community members (and ACCESS-NRI staff) can get [write access to the CM3 evaluation repository](https://github.com/ACCESS-Community-Hub/access-am3-paper-1/). To get write access, you need to create an issue and request access, [please use this issue template](https://github.com/ACCESS-Community-Hub/access-am3-paper-1/issues/new?template=add-user-request-to--access-am3-1-repository-.md). Evaluation figures are being coordinated [here](https://github.com/ACCESS-Community-Hub/access-am3-paper-1/issues/1).
+All community members (and ACCESS-NRI staff) can get [write access to the AM3 evaluation repository](https://github.com/ACCESS-Community-Hub/access-am3-paper-1/). To get write access, you need to create an issue and request access, [please use this issue template](https://github.com/ACCESS-Community-Hub/access-am3-paper-1/issues/new?template=add-user-request-to--access-am3-1-repository-.md). Evaluation figures are being coordinated [here](https://github.com/ACCESS-Community-Hub/access-am3-paper-1/issues/1).
 
 ### Report a bug or make a suggestion
 
-Technical issues related to CM3 are best posted to [github.com/ACCESS-NRI/dev-coupling/issues](https://github.com/ACCESS-NRI/dev_coupling/issues/new). If you would like to discuss the issue first, feel free to post it on the [ACCESS-HIVE forum](https://forum.access-hive.org.au/c/esm/coupled-model/71).
+Technical issues related to AM3 are best posted to [github.com/ACCESS-NRI/dev-coupling/issues](https://github.com/ACCESS-NRI/dev_coupling/issues/new). If you would like to discuss the issue first, feel free to post it on the [ACCESS-HIVE forum](https://forum.access-hive.org.au/c/esm/coupled-model/71).
 
-## ACCESS-CM3-configs-doc documentation contributions welcome 🙏
+## ACCESS-AM3-configs-doc documentation contributions welcome 🙏
 This documentation is a work in progress, and we welcome any contributions, including corrections and suggestions.
 
 All contributions are welcome but we would particularly appreciate text suggestions (below). Contributions can be made in a few ways:
