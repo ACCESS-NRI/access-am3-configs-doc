@@ -1,6 +1,6 @@
 ## Getting involved in ACCESS-AM3
 
-There are several ways we welcome feedback and contributions on ACCESS-AM3 development. **Contributions from people of all career stages and backgrounds are highly encouraged. Development is led by ACCESS-NRI and the ESM-working group.** We follow an open development workflow where possible building on the work of international modelling groups.
+There are several ways we welcome feedback and contributions on ACCESS-AM3 development. **Contributions from people of all career stages and backgrounds are highly encouraged. Development is led by ACCESS-NRI and the Atmosphere and Land working groups.** We follow an open development workflow where possible building on the work of international modelling groups.
 
 ### Interact with developers in person
 
