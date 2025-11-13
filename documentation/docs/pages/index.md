@@ -1,12 +1,14 @@
 
 # Home
 
-Welcome to the documentation for the [ACCESS-AM3 model configurations](https://github.com/ACCESS-NRI/access-am3-configs)! 
+!!! warning
+    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch **where?**.
 
+Welcome to the documentation for the [ACCESS-AM3 model configurations](https://github.com/ACCESS-NRI/access-am3-configs)! 
 
 ## ACCESS-AM3 Documentation Overview
 
-See the navigation links on the left. Some reading tips, see:
+The documentation in split into 4 main sections, which also have navigation links in the left sidebar:
 
  - [Contributing](/contributing) 
  - [Inputs](/inputs/Forcing-data-models) 
@@ -19,20 +21,23 @@ ACCESS-AM3 configurations are provided via branches in the [access-am3-configs](
 - [MOM5](https://github.com/ACCESS-NRI/mom5) ocean model
 - [UM](https://github.com/ACCESS-NRI/UM) atmosphere model
 
-All the configurations use the [Payu](https://payu.readthedocs.io/en/latest/) and rose/cylc workflow management tools, and pre-built executables available on [NCI](https://nci.org.au/).
+All the configurations use the [_Rose/Cylc_ workflow management tools](https://docs.access-hive.org.au/models/run_a_model/rose_cylc/), and pre-built executables available on [NCI](https://nci.org.au/).
 
 ### Repository structure
 
 Each configuration in [github.com/ACCESS-NRI/access-am3-configs](https://github.com/ACCESS-NRI/access-am3-configs) repository is stored as a git branch. Most of the branches are named according to the following naming scheme:
 
+* {dev|release}-{nominal_resolution}
+
+where {nominal_resolution} is the spectral resolution following the conventions from the UK Met Office (UKMO).
 
 #### Supported configurations
 
-
+* N96e global coupled atmosphere-land.
 
 #### How to use this repository to run a model
 
-All configurations use [payu](https://github.com/payu-org/payu) and rose/cylc to run the model.
+All configurations use [_Rose/Cylc_](https://docs.access-hive.org.au/models/run_a_model/rose_cylc/) to run the model.
 
 This repository contains many related experimental configurations to make support
 and discovery easier. As a user it does not necessarily make sense to clone all the
@@ -46,8 +51,8 @@ git clone -b <experiment> https://github.com/ACCESS-NRI/access-am3-configs <expe
 
 and replace `<experiment>` with the branch name or tag of the experiment you wish to run.
 
-[ACCESS-Hive](https://access-hive.org.au/) contains [detailed instructions for how to configure and run ACCESS models with `payu`](https://access-hive.org.au/models/run-a-model).
+[ACCESS-Hive](https://access-hive.org.au/) contains [detailed instructions for how to configure and run ACCESS models with `payu`](https://access-hive.org.au/models/run_a_model).
 
 #### CI and Reproducibility Checks
 
-This repository makes use of GitHub Actions to perform reproducibility checks on model config branches.
+This repository will make use of GitHub Actions to perform reproducibility checks on model config branches.
