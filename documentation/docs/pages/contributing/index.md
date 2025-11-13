@@ -1,6 +1,6 @@
 ## Getting involved in ACCESS-AM3
 
-There are several ways we welcome feedback and contributions on ACCESS-AM3 development. **Contributions from people of all career stages and backgrounds are highly encouraged. Development is led by ACCESS-NRI, the Commonwealth Science and Industrial Research Organisation (CSIRO) and the ARC Centre of Excellence for Weather in the 21st Century (W21C).** We follow an open development workflow where possible building on the work of international modelling groups.
+There are several ways we welcome feedback and contributions on ACCESS-AM3 development. **Contributions from people of all career stages and backgrounds are highly encouraged. Development is led by ACCESS-NRI, the Commonwealth Science and Industrial Research Organisation (CSIRO) and the ARC Centre of Excellence for Weather in the 21st Century (W21C).** We follow an open development workflow where possible, building on the work of international modelling groups.
 
 ### Interact with developers in person
 
@@ -9,7 +9,7 @@ If you would like to interact in person with the development team, there are reg
 We also manage most of our development on GitHub. We track AM3 work on a [GitHub project board here](https://github.com/orgs/ACCESS-NRI/projects/35). If you'd like to have your issue considered for AM3 development, please [open an issue](https://github.com/ACCESS-NRI/access-am3-configs/issues/new) on the ACCESS-AM3 configurations repository.
 
 !!! warning
-    The ACCESS-AM3 configurations repository is private due to UK Met Office licensing restrictions. If you would like to get involved, please get in contact with us on the [Hive forum]() to request access. **[TODO] This is something we don't want public yet? Feels very contradictory to say "All contributions, please come get involved" and then say "but wait our repository is private"**
+    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch **where?**.
 
 ### Help us evaluate and improve applications of AM
 
@@ -25,9 +25,10 @@ All community members (and ACCESS-NRI staff) can get [write access to the AM3 ev
 
 ### Report a bug or make a suggestion
 
-Technical issues related to AM3 are best posted to [github.com/ACCESS-NRI/dev-coupling/issues](https://github.com/ACCESS-NRI/dev_coupling/issues/new). If you would like to discuss the issue first, feel free to post it on the [ACCESS-HIVE forum](https://forum.access-hive.org.au/c/esm/coupled-model/71).
+Technical issues related to AM3 are best posted to [github.com/ACCESS-NRI/access-am3/issues](https://github.com/ACCESS-NRI/access-am3-configs/issues/new). If you would like to discuss the issue first, feel free to post it on the [ACCESS-HIVE forum](https://forum.access-hive.org.au/c/atmosphere/am3/243).
 
 ## ACCESS-AM3-configs-doc documentation contributions welcome 🙏
+
 This documentation is a work in progress, and we welcome any contributions, including corrections and suggestions.
 
 All contributions are welcome but we would particularly appreciate text suggestions (below). Contributions can be made in a few ways:
