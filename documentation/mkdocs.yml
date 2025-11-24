@@ -103,6 +103,7 @@ nav:
         - UM - aerosols:         pages/model_components/um_aerosols.md
         - UM - atmospheric chemistry  : pages/model_components/um_atmospheric_chemistry.md
         - CABLE - land:    pages/model_components/cable.md
+        - JULES - land:    pages/model_components/jules.md
         - CASA - land biogeochem.:     pages/model_components/casa.md
   - Inputs:
         - Atmosphere:    pages/inputs/atmosphere.md
