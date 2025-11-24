@@ -2,12 +2,12 @@
 # Home
 
 !!! warning
-    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch **where?**.
+    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch [on the forum](https://forum.access-hive.org.au/t/request-access-to-am3-configurations-draft/5580/15).
 
 Welcome to the documentation for the [ACCESS-AM3 model configurations](https://github.com/ACCESS-NRI/access-am3-configs)! 
 
 !!! warning
-    This documentation is still under construction. It will be improved during the alpha testing. We welcome any [contributions](/contributing).
+    This documentation is still under construction. It will be developed during the alpha testing. We welcome any [contributions](/contributing).
 
 ## ACCESS-AM3 Documentation Overview
 
@@ -25,7 +25,7 @@ ACCESS-AM3 configurations are provided via branches in the [access-am3-configs](
 - [CABLE](https://github.com/CABLE-LSM/CABLE) land model
 - [JULES](https://github.com/ACCESS-NRI/JULES) land model
 
-All the configurations use the [_Rose/Cylc_ workflow management tools](https://docs.access-hive.org.au/models/run_a_model/rose_cylc/), and pre-built executables available on [NCI](https://nci.org.au/).
+All the configurations use the [_Rose/Cylc_ workflow management tools](https://docs.access-hive.org.au/models/run_a_model/rose_cylc/) and pre-built executables available on [NCI](https://nci.org.au/).
 
 ### Repository structure
 
