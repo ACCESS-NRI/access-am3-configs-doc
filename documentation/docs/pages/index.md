@@ -6,6 +6,9 @@
 
 Welcome to the documentation for the [ACCESS-AM3 model configurations](https://github.com/ACCESS-NRI/access-am3-configs)! 
 
+!!! warning
+    This documentation is still under construction. It will be improved during the alpha testing. We welcome any [contributions](/contributing).
+
 ## ACCESS-AM3 Documentation Overview
 
 The documentation in split into 4 main sections, which also have navigation links in the left sidebar:
