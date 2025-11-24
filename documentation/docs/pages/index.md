@@ -21,8 +21,9 @@ The documentation in split into 4 main sections, which also have navigation link
 ## access-am3-configs Overview
 ACCESS-AM3 configurations are provided via branches in the [access-am3-configs](https://github.com/ACCESS-NRI/access-am3-configs) GitHub repository, this repository is currently private. The [access-am3-configs](https://github.com/ACCESS-NRI/access-am3-configs) repository contains several configurations using the following components:
 
-- [MOM5](https://github.com/ACCESS-NRI/mom5) ocean model
 - [UM](https://github.com/ACCESS-NRI/UM) atmosphere model
+- [CABLE](https://github.com/CABLE-LSM/CABLE) land model
+- [JULES](https://github.com/ACCESS-NRI/JULES) land model
 
 All the configurations use the [_Rose/Cylc_ workflow management tools](https://docs.access-hive.org.au/models/run_a_model/rose_cylc/), and pre-built executables available on [NCI](https://nci.org.au/).
 
