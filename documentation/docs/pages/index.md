@@ -1,31 +1,30 @@
 
 # Home
 
-!!! warning
-    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch [on the forum](https://forum.access-hive.org.au/t/request-access-to-am3-configurations-draft/5580/15).
+!!! warning "Under construction"
+    This documentation is still under construction. It will be developed during the alpha testing. We welcome any [contributions](/contributing).
 
 Welcome to the documentation for the [ACCESS-AM3 model configurations](https://github.com/ACCESS-NRI/access-am3-configs)! 
 
-!!! warning
-    This documentation is still under construction. It will be developed during the alpha testing. We welcome any [contributions](/contributing).
+!!! info "Licensing information"
+    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch [on the forum](https://forum.access-hive.org.au/t/request-access-to-am3-configurations/5580).
 
 ## ACCESS-AM3 Documentation Overview
 
-The documentation in split into 4 main sections, which also have navigation links in the left sidebar:
+In this documentation, you will find:
 
- - [Contributing](/contributing) 
- - [Inputs](/inputs/Forcing-data-models) 
- - [Configuration choices/Configurations](/configurations/Overview/) 
- - [Infrastructure](/infrastructure/Architecture/) 
+- information to contribute to the development of ACCESS-AM3, its configurations and their documentation
+- details of the supported configurations, including information on the provenance of the inputs and their creation, on some evaluation and on the outputs from the model
+- technical details of the model's architecture and the build, deployment and testing infrastructure of the model.
 
 ## access-am3-configs Overview
-ACCESS-AM3 configurations are provided via branches in the [access-am3-configs](https://github.com/ACCESS-NRI/access-am3-configs) GitHub repository, this repository is currently private. The [access-am3-configs](https://github.com/ACCESS-NRI/access-am3-configs) repository contains several configurations using the following components:
+ACCESS-AM3 configurations are provided via branches in the [access-am3-configs](https://github.com/ACCESS-NRI/access-am3-configs) GitHub repository, which is currently private. This repository contains several configurations using the following components:
 
 - [UM](https://github.com/ACCESS-NRI/UM) atmosphere model
 - [CABLE](https://github.com/CABLE-LSM/CABLE) land model
 - [JULES](https://github.com/ACCESS-NRI/JULES) land model
 
-All the configurations use the [_Rose/Cylc_ workflow management tools](https://docs.access-hive.org.au/models/run_a_model/rose_cylc/) and pre-built executables available on [NCI](https://nci.org.au/).
+All configurations use the [_Rose/Cylc_ workflow management tools](https://docs.access-hive.org.au/models/run_a_model/rose_cylc/) and pre-built executables available on [NCI](https://nci.org.au/).
 
 ### Repository structure
 
@@ -33,30 +32,16 @@ Each configuration in [github.com/ACCESS-NRI/access-am3-configs](https://github.
 
 * {dev|release}-{nominal_resolution}
 
-where {nominal_resolution} is the spectral resolution following the conventions from the UK Met Office (UKMO).
+where {nominal_resolution} is the spectral resolution following the conventions from the UKMO.
 
 #### Supported configurations
 
-* N96e global coupled atmosphere-land.
+* dev-n96e: global coupled atmosphere-land at N96e resolution.
 
 #### How to use this repository to run a model
 
-All configurations use [_Rose/Cylc_](https://docs.access-hive.org.au/models/run_a_model/rose_cylc/) to run the model.
-
-This repository contains many related experimental configurations to make support
-and discovery easier. As a user it does not necessarily make sense to clone all the
-configurations at once.
-
-In most cases only a single experiment is required. If that is the case, choose which experiment and then run
-
-```sh
-git clone -b <experiment> https://github.com/ACCESS-NRI/access-am3-configs <experiment>
-```
-
-and replace `<experiment>` with the branch name or tag of the experiment you wish to run.
-
-[ACCESS-Hive](https://access-hive.org.au/) contains [detailed instructions for how to configure and run ACCESS models with `payu`](https://access-hive.org.au/models/run_a_model).
+The access-am3-configs repository contains many related experimental configurations to facilitate support and discovery. In most cases, users will not need all the configurations at once, but rather a single one. Use the information in this documentation to choose the configuration most appropriate to your work, then follow the instructions in the [Run ACCESS-AM3](https://docs.access-hive.org.au/pr-previews/1058/models/run_a_model/run_access-am3/) guide to retrieve and run your chosen configuration.
 
 #### CI and Reproducibility Checks
 
-This repository will make use of GitHub Actions to perform reproducibility checks on model config branches.
+This repository will make use of GitHub Actions to perform reproducibility checks on supported configuration branches.
