@@ -100,15 +100,15 @@ nav:
         - Contributing overview:     pages/contributing/index.md   
   - Model Components:
         - UM - atmosphere:       pages/model_components/um.md
-        - Aerosols and atmospheric chemistry: pages/model_components/aerosols_chemistry_comp.md
+        - Aerosols and atmospheric chemistry: pages/model_components/aerosols_chemistry.md
         - CABLE - land:    pages/model_components/cable.md
         - JULES - land:    pages/model_components/jules.md
-        - CASA - land biogeochem.:     pages/model_components/casa_comp.md
+        - CASA - land biogeochem.:     pages/model_components/casa.md
   - Inputs:
         - Atmosphere:    pages/inputs/atmosphere.md
-        - Aerosols and atmospheric chemistry:    pages/inputs/aerosols_chemistry_inputs.md
+        - Aerosols and atmospheric chemistry:    pages/inputs/aerosols_chemistry.md
         - Land:    pages/inputs/land.md
-        - CASA:    pages/inputs/casa_inputs.md
+        - CASA:    pages/inputs/casa.md
 
   - Configurations and Experiments:
         - Configuration:    pages/configs_experiments/overviewconfiguration.md
