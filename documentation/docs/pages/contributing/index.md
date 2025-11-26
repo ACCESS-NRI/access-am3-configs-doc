@@ -4,12 +4,12 @@ There are several ways we welcome feedback and contributions on ACCESS-AM3 devel
 
 ### Interact with developers in person
 
-If you would like to interact in person with the development team, there are regular Land Working Group meetings on the first and third Wednesday of every month (see [this thread](https://forum.access-hive.org.au/t/land-working-group-announce/355) on the Hive Forum) and Atmosphere Working Group meetings are organised on an ad-hoc basis (see [this thread](https://forum.access-hive.org.au/t/announce-atmosphere-working-group/568) on the Hive Forum). Everyone is welcome to suggest agenda items and participate (see the threads for the respective agendas). If you'd like to come, get in touch on ACCESS-Hive forum either under the [ACCESS-AM3](https://forum.access-hive.org.au/c/atmosphere/am3/243) category.
+If you would like to interact in person with the development team, there are regular Land Working Group meetings on the first and third Wednesday of every month (see [this thread](https://forum.access-hive.org.au/t/land-working-group-announce/355) on the ACCESS-Hive Forum) and Atmosphere Working Group meetings are organised on an ad-hoc basis (see [this thread](https://forum.access-hive.org.au/t/announce-atmosphere-working-group/568) on the ACCESS-Hive Forum). Everyone is welcome to suggest agenda items and participate (see the threads for the respective agendas). If you'd like to come, get in touch on ACCESS-Hive Forum either under the [ACCESS-AM3](https://forum.access-hive.org.au/c/atmosphere/am3/243) category.
 
-We also manage most of our development on GitHub. We track AM3 work on a [GitHub project board here](https://github.com/orgs/ACCESS-NRI/projects/35). If you'd like to have your issue considered for AM3 development, please [open an issue](https://github.com/ACCESS-NRI/access-am3-configs/issues/new) on the ACCESS-AM3 configurations repository.
+We also manage most of our development on GitHub. We track ACCESS-AM3 work on a [GitHub project board here](https://github.com/orgs/ACCESS-NRI/projects/35). If you'd like to have your issue considered for ACCESS-AM3 development, please [open an issue](https://github.com/ACCESS-NRI/access-am3-configs/issues/new) on the ACCESS-AM3 configurations repository.
 
 !!! warning
-    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch by replying to [this ACCESS-Hive forum topic](https://forum.access-hive.org.au/t/request-access-to-am3-configurations-draft/5580).
+    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch by replying to [this ACCESS-Hive Forum topic](https://forum.access-hive.org.au/t/request-access-to-am3-configurations-draft/5580).
 
 ### Help us evaluate and improve applications of AM
 
@@ -25,7 +25,7 @@ All community members (and ACCESS-NRI staff) can get [write access to the AM3 ev
 
 ### Report a bug or make a suggestion
 
-Technical issues related to AM3 are best posted to [github.com/ACCESS-NRI/access-am3-configs/issues](https://github.com/ACCESS-NRI/access-am3-configs/issues/new). If you would like to discuss the issue first, feel free to post it on the [ACCESS-HIVE forum](https://forum.access-hive.org.au/c/atmosphere/am3/243).
+Technical issues related to ACCESS-AM3 are best posted to [github.com/ACCESS-NRI/access-am3-configs/issues](https://github.com/ACCESS-NRI/access-am3-configs/issues/new). If you would like to discuss the issue first, feel free to post it on the [ACCESS-HIVE forum](https://forum.access-hive.org.au/c/atmosphere/am3/243).
 
 ## ACCESS-AM3-configs-doc documentation contributions welcome 🙏
 
