@@ -25,7 +25,7 @@ All community members (and ACCESS-NRI staff) can get [write access to the AM3 ev
 
 ### Report a bug or make a suggestion
 
-Technical issues related to AM3 are best posted to [github.com/ACCESS-NRI/access-am3/issues](https://github.com/ACCESS-NRI/access-am3-configs/issues/new). If you would like to discuss the issue first, feel free to post it on the [ACCESS-HIVE forum](https://forum.access-hive.org.au/c/atmosphere/am3/243).
+Technical issues related to AM3 are best posted to [github.com/ACCESS-NRI/access-am3-configs/issues](https://github.com/ACCESS-NRI/access-am3-configs/issues/new). If you would like to discuss the issue first, feel free to post it on the [ACCESS-HIVE forum](https://forum.access-hive.org.au/c/atmosphere/am3/243).
 
 ## ACCESS-AM3-configs-doc documentation contributions welcome 🙏
 
