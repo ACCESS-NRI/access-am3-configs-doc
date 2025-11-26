@@ -108,9 +108,9 @@ nav:
         - CASA - land biogeochem.:     pages/model_components/casa.md
   - Inputs:
         - Atmosphere:    pages/inputs/atmosphere.md
-        - Aerosols and atmospheric chemistry:    pages/inputs/aerosols_chemistry.md
+        - Aerosols and Atmospheric Chemistry:    pages/inputs/aerosols_chemistry.md
         - Land:    pages/inputs/land.md
-        - Biogeochemistry:    pages/inputs/biogeochemistry.md
+        - Land Biogeochemistry:    pages/inputs/biogeochemistry.md
 
   - Configurations and Experiments:
         - Configuration:    pages/configs_experiments/overviewconfiguration.md
