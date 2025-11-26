@@ -40,7 +40,7 @@ where {nominal_resolution} is the spectral resolution following the conventions 
 
 #### How to use this repository to run a model
 
-The access-am3-configs repository contains many related experimental configurations to facilitate support and discovery. In most cases, users will not need all the configurations at once, but rather a single one. Use the information in this documentation to choose the configuration most appropriate to your work, then follow the instructions in the [Run ACCESS-AM3](https://docs.access-hive.org.au/pr-previews/1058/models/run_a_model/run_access-am3/) guide to retrieve and run your chosen configuration.
+The access-am3-configs repository contains many related experimental configurations to facilitate support and discovery. Users will not need all the configurations at once, but rather a single one. Use the information in this documentation to choose the configuration most appropriate to your work, then follow the instructions in the [Run ACCESS-AM3](https://docs.access-hive.org.au/pr-previews/1058/models/run_a_model/run_access-am3/) guide to retrieve and run your chosen configuration.
 
 #### CI and Reproducibility Checks
 
