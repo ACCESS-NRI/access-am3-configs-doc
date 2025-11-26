@@ -9,7 +9,7 @@ If you would like to interact in person with the development team, there are reg
 We also manage most of our development on GitHub. We track AM3 work on a [GitHub project board here](https://github.com/orgs/ACCESS-NRI/projects/35). If you'd like to have your issue considered for AM3 development, please [open an issue](https://github.com/ACCESS-NRI/access-am3-configs/issues/new) on the ACCESS-AM3 configurations repository.
 
 !!! warning
-    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch **where?**.
+    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch by replying to [this ACCESS-Hive forum topic](https://forum.access-hive.org.au/t/request-access-to-am3-configurations-draft/5580).
 
 ### Help us evaluate and improve applications of AM
 
