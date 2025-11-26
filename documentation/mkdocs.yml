@@ -102,7 +102,7 @@ nav:
         - Contribute a Configuration: pages/contributing/index/contribute-a-configuration
   - Model Components:
         - UM - atmosphere:       pages/model_components/um.md
-        - UKCA - atmosphere:       pages/model_components/ukca.md
+        - UKCA - aerosols and atmospheric chemistry:       pages/model_components/ukca.md
         - CABLE - land:    pages/model_components/cable.md
         - JULES - land:    pages/model_components/jules.md
         - CASA - land biogeochem.:     pages/model_components/casa.md
