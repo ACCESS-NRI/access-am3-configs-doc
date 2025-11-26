@@ -98,8 +98,8 @@ nav:
   - Home:                            pages/index.md
   - Contributing:          
         - Overview:     pages/contributing/index.md
-        - Edit this Documentation:  pages/contributing/index/contribute-to-docs
-        - Contribute a Configuration: pages/contributing/index/contribute-a-configuration
+        - Edit this Documentation:  pages/contributing/index.md#contribute-to-docs
+        - Contribute a Configuration: pages/contributing/index.md#contribute-a-configuration
   - Model Components:
         - UM - atmosphere:       pages/model_components/um.md
         - UKCA - aerosols and atmospheric chemistry:       pages/model_components/ukca.md
