@@ -7,7 +7,7 @@
 Welcome to the documentation for the [ACCESS-AM3 model configurations](https://github.com/ACCESS-NRI/access-am3-configs)! 
 
 !!! info "Licensing information"
-    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch [on the forum](https://forum.access-hive.org.au/t/request-access-to-am3-configurations/5580).
+    This model uses components and science configurations from the UK Met Office (UKMO), and as such are license restricted. This means the associated repositories are required to be private. If you would like to be granted access to these repositories, please get in touch [on the ACCESS-Hive forum](https://forum.access-hive.org.au/t/request-access-to-am3-configurations/5580).
 
 ## ACCESS-AM3 Documentation Overview
 
