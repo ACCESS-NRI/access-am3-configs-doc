@@ -27,7 +27,7 @@ All community members (and ACCESS-NRI staff) can get [write access to the AM3 ev
 
 Technical issues related to ACCESS-AM3 are best posted to [github.com/ACCESS-NRI/access-am3-configs/issues](https://github.com/ACCESS-NRI/access-am3-configs/issues/new). If you would like to discuss the issue first, feel free to post it on the [ACCESS-HIVE forum](https://forum.access-hive.org.au/c/atmosphere/am3/243).
 
-## ACCESS-AM3-configs-doc documentation contributions welcome 🙏
+## ACCESS-AM3-configs-doc documentation contributions welcome 🙏 { #contribute-to-docs }
 
 This documentation is a work in progress, and we welcome any contributions, including corrections and suggestions.
 
@@ -53,4 +53,8 @@ Create a new branch, e.g. `jblogs/doc-update`, make doc changes (the documentati
     This method allows you create whole new pages and to preview the changes rendered into a website. It works whether or not you have write access to [`access-am3-configs-doc`](https://github.com/ACCESS-NRI/access-am3-configs-doc), but requires you to install `mkdocs` and takes the longest to set up.<br>
 
 Following [these instructions](https://docs.access-hive.org.au/about/contribute/#lets-get-started) but noting the documentation sources are in [github.com/ACCESS-NRI/access-am3-configs-doc/tree/main/documentation](https://github.com/ACCESS-NRI/access-am3-configs-doc/tree/main/documentation). You'll need to [fork](https://docs.access-hive.org.au/about/contribute/#clone-the-forked-access-hive-docs-github-repository-locally) and clone [github.com/ACCESS-NRI/access-am3-configs-doc](https://github.com/ACCESS-NRI/access-am3-configs-doc) if you want to write your own content (`mkdocs serve` should be invoked from within the `documentation` directory).
+
+## Contribute a configuration
+
+Information on how to contribute a configuration and what is expected of an ACCESS-NRI supported configuration.
 
