@@ -1,14 +1,14 @@
 # This file uses the following environment variables set within the build workflow:
 # - SITE_URL: the URL of the site (Falls back to the default URL)
 # For example, for PR-previews, SITE_URL is set to <default_URL>/pr-preview-NUM
-site_name: access-am3-configs
+site_name: ACCESS-AM3 configurations documentation
 
 # Site URL
 site_url: !ENV [SITE_URL, "http://access-nri.github.io/access-am3-configs/"]
 
 # Git repository (Adds a link to the GitHub repository at the top)
-repo_url: https://github.com/ACCESS-NRI/access-am3-configs
-repo_name: ACCESS-NRI/access-am3-configs
+repo_url: https://github.com/ACCESS-NRI/access-am3-configs-doc
+repo_name: ACCESS-NRI/access-am3-configs-doc
 edit_uri: blob/main/documentation/docs/ #hopefully will fix the edit button from 404'ing, https://github.com/mkdocs/mkdocs/issues/2416
 
 # Theme
@@ -134,6 +134,7 @@ extra:
 
 extra_css:
   - "https://fonts.googleapis.com/icon?family=Material+Icons"   # Material Icons Reference - https://material.io/resources/icons/?style=baseline
+  - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
   - fontello/css/fontello-codes.css
   - fontello/css/fontello-ie7-codes.css
   - fontello/css/fontello-ie7.css
